@@ -20,7 +20,7 @@ unset($_SESSION['output_buffer']);
 $csrf_token = create_csrf_token();
 
 ?>
-<!DICTYPE html>
+<!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
